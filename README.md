@@ -1,5 +1,7 @@
 # Investigating Thyroid Function
 
+# NOTE: To see the HTML output (R Markdown Code + Output from plots) of this project click on https://dashyanngkachru.github.io/dashyanngkachru.github.io_ThyroidProject/ 
+
 ## Dataset variables:
      
 subject_id : Unique identifier which specifies an individual patient   
