@@ -1,6 +1,6 @@
 # Investigating Thyroid Function
 
-# NOTE: To see the HTML output (R Markdown Code + Output from plots) of this project click on https://dashyanngkachru.github.io/dashyanngkachru.github.io_ThyroidProject/ 
+# NOTE: Kindly click on https://dashyanngkachru.github.io/dashyanngkachru.github.io_ThyroidProject/ to see the HTML output (R Markdown Code + Output from plots) of this project 
 
 ## Dataset variables:
      
